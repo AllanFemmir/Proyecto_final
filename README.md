@@ -1,1 +1,3 @@
 # Proyecto_final
+El proyecto es un programa acerca de cotizaciones para una empresa de seguros ¿cùal es el funcionamiento del programa? el programa de seguros
+tiene unas condiciones por las cuales se le añade un recargo al precio base y por el cual se obtiene el precio final del producto por lo que se van desplegando apartados en los que se le pregunta al usuario ciertos datos como su edad,si esta casado,su salario, sus propiedades etc, por lo que el programa solito va añadiendo todos los parametros y le devuelve al final el total del recargo y el precio final que el obtendra, se podria mejorar añadiendo una plantilla de cotizacion que el usuario pudiera descargar para leer despues.
