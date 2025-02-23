@@ -1,0 +1,16 @@
+			Parte II Proyecto Final 
+
+	algoritmo para programa de cotizaciones de seguros
+
+1)Primero se le debe de preguntar al usuario por medio de prompts su nombre
+2)Se le preguntara al usuario su edad
+2)Se le preguntara al usuario si esta casado o casada
+3)Si la respuesta es Si se le preguntara la edad de su conyuge, Si la respuesta es No se omite este paso
+4)Se le preguntara al usuario si tiene hijos
+5)Si la respuesta es Si se le preguntara la cantidad de hijos 
+6)Se hace el recuento de todos los datos
+7)Se empiezan a hacer los recargos primero con la edad del asegurado
+8)SI el asegurado es casado se aplica el recargo por la edad del conyuge
+9)Si el asegurado tiene hijos se aplican los recargos
+10) se sum el total de recargos mas el precio base
+11) se devuelve la cotizacion por medio de un alert al cliente.

@@ -1,0 +1,14 @@
+						PARTE I PROYECTO FINAL
+	El problema principal es lo poco practico que resulta tener que realizar cotizaciones de una forma manual 
+	para una empresa grande de seguros esto es muy malo ya que realizar esto implica hacer que los clientes
+	prefieran la competencia que ya tenga un sistema que realice esto de una manera automatizada, hacer esto 
+	hace que incluso los clientes puedan realizar sus cotizaciones ellos mismos asi ya solamente se avocan a 
+	la oficina o a los numeros corporativos para realizar la contratacion del servicio, ahora cual es el reto
+	es realizar el codigo que siga los parametros indicados los cuales son que en este caso los menores de edad
+	no tiene permitido o mejor dicho no se les puede dar este servicio por lo que se debe tener un filtro para
+	este parametro, ademas se deben de tener mas filtros ya que el servicio que ofrece la empresa implica que 
+	se le agreguen recargos por parametros que pueda cumplir el afiliado, por ejemplo la empresa tiene recarg-
+	os por la edad del asegurado y por estar casado y depende tambien de la edad del conyuge y de la cantidad
+	de hijos que tuviera la pareja por lo que el reto de este programa es realizar que este programa realice
+	todos estos calculos automaticamente de esta manera reducir los tiempos de respuesta de cada cotizacion 
+	y atraer mas clientes por la eficiencia del programa y la claridad del mismo.
